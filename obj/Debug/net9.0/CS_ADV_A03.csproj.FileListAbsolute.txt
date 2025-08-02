@@ -1,0 +1,14 @@
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\bin\Debug\net9.0\CS_ADV_A03.exe
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\bin\Debug\net9.0\CS_ADV_A03.deps.json
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\bin\Debug\net9.0\CS_ADV_A03.runtimeconfig.json
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\bin\Debug\net9.0\CS_ADV_A03.dll
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\bin\Debug\net9.0\CS_ADV_A03.pdb
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.dll
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\refint\CS_ADV_A03.dll
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.pdb
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\CS_ADV_A03.genruntimeconfig.cache
+C:\Users\Al-Quds\source\repos\CS_ADV_A03\obj\Debug\net9.0\ref\CS_ADV_A03.dll
